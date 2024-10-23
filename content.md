@@ -2,12 +2,12 @@
  Balaji Srinivasan
 
 Notes:
-- 20 years of experience in firmware, attended conferences like NDC Oslo, NDC Techtown, Embedded QA and Test in Bilbao.
 - This is an informal talk—let’s discuss why tech conferences are great for both individuals and the company.
 
 ---
 
 #### Why Conferences?
+
 - Break barriers
   - It’s easier to approach people when everyone’s wearing the same lanyard
 - New ways of thinking and perspectives
@@ -68,6 +68,7 @@ Notes:
 
 ---
 #### Sponsor a conference
+
 - The name badge is the best sponsorship! But even a booth works.
 - Usually comes with free tickets for a few employees
 - Send engineers to staff the booth—not just sales folks.
@@ -75,12 +76,18 @@ Notes:
 ---
 #### Example conferences
 
-- NDC techtown, NDC Oslo and NDC Security
+- NDC techtown, NDC Oslo and NDC Security (Oslo)
   - Great place for software and embedded folks
-- adacon
-  - Helps folks to talk on stage. Programming and leadership oriented. Focusses on diversity.
+- adacon (Oslo)
+  - Focusses on diversity, software, leadership
+  - Helps folks get on stage and mentor them
 - Oslo Business Forum
+  - Business and leadership
   - Companies can become members and allow employees to view leadership talks.
+
+---
+#### Example conferences
+
 - Trondheim developer conference
 - Boosterconf Bergen - Beginner friendly
 - Skaperfest Trondheim
