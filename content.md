@@ -84,6 +84,6 @@ Notes:
 #### Conclusion
 
 - Conferences => Innovation
-- Don’t think of it as just a break. It’s a break *for* innovation!
+- Don’t think of it as just a break. It’s a break <u>*for*</u> innovation!
 - Conferences plant seeds for new ideas.
   - You won’t see results right away, but the long-term growth can be incredible.
