@@ -23,6 +23,7 @@ Notes:
 
 #### Why It’s Not Just OPEX
 - It’s Not Just OPEX, It’s Opportunity!
+- Learn from new people
 - Personal/professional growth
 - ROI for the company
   - Employee branding and talent acquisition
@@ -40,13 +41,12 @@ Notes:
 - Speak English
   - So you’re more inclusive.
 - Fireside chats > tracks
-- Sponsorships
-  - The name badge is the best sponsorship! But even a booth works.
+- Make sure to attend talks on unfamiliar topics.
+  - You may be surprised how it may be relevant to you. Plus you get a expert contact.
 
 Notes:
 - Speak in English when in group settings so you’re more inclusive. Private conversations in your native language are fine, but in public, English is more welcoming.
 - Quick fireside chats can be more productive than some formal sessions. I once had a 5-minute chat at a conference that transformed how we did code analysis!
-- Send engineers to staff the booth—not just sales folks.
 
 ---
 
@@ -67,6 +67,12 @@ Notes:
 - And remember—time spent at conferences is work time, not vacation!
 
 ---
+#### Sponsor a conference
+- The name badge is the best sponsorship! But even a booth works.
+- Usually comes with free tickets for a few employees
+- Send engineers to staff the booth—not just sales folks.
+
+---
 #### Example conferences
 
 - NDC techtown, NDC Oslo and NDC Security
@@ -76,6 +82,7 @@ Notes:
 - Oslo Business Forum
   - Companies can become members and allow employees to view leadership talks.
 - Trondheim developer conference
+- Boosterconf Bergen - Beginner friendly
 - Skaperfest Trondheim
   - Great for showing of what you made - Software, hardware, art etc.
 
