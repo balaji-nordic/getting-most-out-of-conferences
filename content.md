@@ -57,7 +57,7 @@ Notes:
   - Internal training has its place, but external conferences give you a wider view of what's happening across the industry.
 
 ---
-#### How can managers help>
+#### How can managers help
 
 - Help their team find these opportunities.
 - 2 to 4 conference days a year is a great sweet spot
@@ -65,6 +65,19 @@ Notes:
   - Save on travel/accommodation while building brand.
   - The only cost is the time spent preparing the talk.
 - And remember—time spent at conferences is work time, not vacation!
+
+---
+#### Example conferences
+
+- NDC techtown, NDC Oslo and NDC Security
+  - Great place for software and embedded folks
+- adacon
+  - Helps folks to talk on stage. Programming and leadership oriented. Focusses on diversity.
+- Oslo Business Forum
+  - Companies can become members and allow employees to view leadership talks.
+- Trondheim developer conference
+- Skaperfest Trondheim
+  - Great for showing of what you made - Software, hardware, art etc.
 
 ---
 
